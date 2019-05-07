@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laidaetho.vedri.ca/sitemap.xml
